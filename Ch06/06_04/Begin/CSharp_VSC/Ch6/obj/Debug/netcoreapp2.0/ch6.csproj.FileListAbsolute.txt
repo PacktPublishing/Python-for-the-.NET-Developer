@@ -1,0 +1,11 @@
+C:\CSharp2Python\CSharp_VSC\ch6\bin\Debug\netcoreapp2.0\ch6.deps.json
+C:\CSharp2Python\CSharp_VSC\ch6\bin\Debug\netcoreapp2.0\ch6.runtimeconfig.json
+C:\CSharp2Python\CSharp_VSC\ch6\bin\Debug\netcoreapp2.0\ch6.runtimeconfig.dev.json
+C:\CSharp2Python\CSharp_VSC\ch6\bin\Debug\netcoreapp2.0\ch6.dll
+C:\CSharp2Python\CSharp_VSC\ch6\bin\Debug\netcoreapp2.0\ch6.pdb
+C:\CSharp2Python\CSharp_VSC\ch6\obj\Debug\netcoreapp2.0\ch6.csprojAssemblyReference.cache
+C:\CSharp2Python\CSharp_VSC\ch6\obj\Debug\netcoreapp2.0\ch6.csproj.CoreCompileInputs.cache
+C:\CSharp2Python\CSharp_VSC\ch6\obj\Debug\netcoreapp2.0\ch6.AssemblyInfoInputs.cache
+C:\CSharp2Python\CSharp_VSC\ch6\obj\Debug\netcoreapp2.0\ch6.AssemblyInfo.cs
+C:\CSharp2Python\CSharp_VSC\ch6\obj\Debug\netcoreapp2.0\ch6.dll
+C:\CSharp2Python\CSharp_VSC\ch6\obj\Debug\netcoreapp2.0\ch6.pdb

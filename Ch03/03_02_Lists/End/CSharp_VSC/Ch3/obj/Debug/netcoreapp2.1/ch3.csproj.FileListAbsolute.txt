@@ -1,0 +1,22 @@
+C:\Python4DotnetDev\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.csprojAssemblyReference.cache
+C:\Python4DotnetDev\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.csproj.CoreCompileInputs.cache
+C:\Python4DotnetDev\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.AssemblyInfoInputs.cache
+C:\Python4DotnetDev\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.AssemblyInfo.cs
+C:\Python4DotnetDev\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.deps.json
+C:\Python4DotnetDev\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.runtimeconfig.json
+C:\Python4DotnetDev\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.runtimeconfig.dev.json
+C:\Python4DotnetDev\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.dll
+C:\Python4DotnetDev\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.pdb
+C:\Python4DotnetDev\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.dll
+C:\Python4DotnetDev\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\bin\Debug\netcoreapp2.1\ch3.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.csprojAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.AssemblyInfoInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02_Lists\End\CSharp_VSC\ch3\obj\Debug\netcoreapp2.1\ch3.pdb
